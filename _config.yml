@@ -1,9 +1,9 @@
 # Site settings
-title: Sotirios Vrachas
+title: "Sotirios Vrachas"
 image: /blob/home.jpg
-email: sotirios @ vrachas.com
+email: "sotirios @ vrachas.com"
 description: "Sotirios Vrachas' Blog"
-baseurl: "/"
+baseurl: ""
 url: "http://sotiriosvrachas.github.io"
 twitter_username: sotiriosvrachas
 github_username: sotiriosvrachas
@@ -13,7 +13,7 @@ markdown: redcarpet
 highlighter: pygments
 permalink: /:title
 paginate: 99
-exclude: [""]
+#exclude: [""]
 
 prose:
   rooturl: '_posts'
