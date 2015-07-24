@@ -1,0 +1,51 @@
+# Site settings
+title: Sotirios Vrachas
+image: /blob/home.jpg
+email: sotirios @ vrachas.com
+description: "Sotirios Vrachas' Blog"
+baseurl: "/"
+url: "http://sotiriosvrachas.github.io"
+twitter_username: sotiriosvrachas
+github_username: sotiriosvrachas
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+permalink: /:title
+paginate: 99
+exclude: [""]
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://sotiriosvrachas.github.io/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'blob'
+  ignore:
+    - index.html
+    - /css
+    - /fonts
+    - /js
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
