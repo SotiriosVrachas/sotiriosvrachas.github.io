@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="542.91095" height="271.32742" id="svg2">
+  <defs id="defs4">
+    <linearGradient id="linearGradient3755">
+      <stop id="stop3757" style="stop-color:#767676;stop-opacity:0.31304348" offset="0"/>
+      <stop id="stop3759" style="stop-color:#000000;stop-opacity:0" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3728">
+      <stop id="stop3730" style="stop-color:#000000;stop-opacity:1" offset="0"/>
+      <stop id="stop3732" style="stop-color:#ffffff;stop-opacity:1" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3744">
+      <stop id="stop3746" style="stop-color:#ff0000;stop-opacity:1" offset="0"/>
+      <stop id="stop3752" style="stop-color:#ff0000;stop-opacity:0.88695651" offset="0.64864862"/>
+      <stop id="stop3748" style="stop-color:#ff7e7e;stop-opacity:0.60784316" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3734">
+      <stop id="stop3736" style="stop-color:#fff2f2;stop-opacity:1" offset="0"/>
+      <stop id="stop3742" style="stop-color:#ffbdbd;stop-opacity:1" offset="0.8108108"/>
+      <stop id="stop3738" style="stop-color:#ff0000;stop-opacity:1" offset="1"/>
+    </linearGradient>
+    <filter x="-0.25" y="-0.25" width="1.5" height="1.5" color-interpolation-filters="sRGB" id="filter3617">
+      <feGaussianBlur result="blur" stdDeviation="10,000000" in="SourceAlpha" id="feGaussianBlur3619"/>
+      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0,500000 0 " type="matrix" result="bluralpha" id="feColorMatrix3621"/>
+      <feOffset result="offsetBlur" dy="10,000000" dx="10,000000" in="bluralpha" id="feOffset3623"/>
+      <feMerge id="feMerge3625">
+        <feMergeNode in="offsetBlur" id="feMergeNode3627"/>
+        <feMergeNode in="SourceGraphic" id="feMergeNode3629"/>
+      </feMerge>
+    </filter>
+    <filter x="-0.25" y="-0.25" width="1.5" height="1.5" color-interpolation-filters="sRGB" id="filter3604">
+      <feGaussianBlur result="blur" stdDeviation="10,000000" in="SourceAlpha" id="feGaussianBlur3606"/>
+      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0,500000 0 " type="matrix" result="bluralpha" id="feColorMatrix3608"/>
+      <feOffset result="offsetBlur" dy="10,000000" dx="10,000000" in="bluralpha" id="feOffset3610"/>
+      <feMerge id="feMerge3612">
+        <feMergeNode in="offsetBlur" id="feMergeNode3614"/>
+        <feMergeNode in="SourceGraphic" id="feMergeNode3616"/>
+      </feMerge>
+    </filter>
+    <filter x="-0.25" y="-0.25" width="1.5" height="1.5" color-interpolation-filters="sRGB" id="filter3965">
+      <feGaussianBlur result="blur" stdDeviation="10,000000" in="SourceAlpha" id="feGaussianBlur3967"/>
+      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0,500000 0 " type="matrix" result="bluralpha" id="feColorMatrix3969"/>
+      <feOffset result="offsetBlur" dy="10,000000" dx="10,000000" in="bluralpha" id="feOffset3971"/>
+      <feMerge id="feMerge3973">
+        <feMergeNode in="offsetBlur" id="feMergeNode3975"/>
+        <feMergeNode in="SourceGraphic" id="feMergeNode3977"/>
+      </feMerge>
+    </filter>
+    <radialGradient cx="1497.1428" cy="532.36218" r="307.85715" fx="1497.1428" fy="532.36218" id="radialGradient4568-6" xlink:href="#linearGradient4560-2" gradientUnits="userSpaceOnUse"/>
+    <linearGradient id="linearGradient4560-2">
+      <stop id="stop4562-4" style="stop-color:#686868;stop-opacity:1" offset="0"/>
+      <stop id="stop4564-5" style="stop-color:#e6e6e6;stop-opacity:0" offset="1"/>
+    </linearGradient>
+    <filter x="-0.25" y="-0.25" width="1.5" height="1.5" color-interpolation-filters="sRGB" id="filter3965-8">
+      <feGaussianBlur result="blur" stdDeviation="10,000000" in="SourceAlpha" id="feGaussianBlur3967-8"/>
+      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0,500000 0 " type="matrix" result="bluralpha" id="feColorMatrix3969-1"/>
+      <feOffset result="offsetBlur" dy="10,000000" dx="10,000000" in="bluralpha" id="feOffset3971-2"/>
+      <feMerge id="feMerge3973-1">
+        <feMergeNode in="offsetBlur" id="feMergeNode3975-4"/>
+        <feMergeNode in="SourceGraphic" id="feMergeNode3977-9"/>
+      </feMerge>
+    </filter>
+    <radialGradient cx="1497.1428" cy="532.36218" r="307.85715" fx="1497.1428" fy="532.36218" id="radialGradient4596" xlink:href="#linearGradient4560-2" gradientUnits="userSpaceOnUse"/>
+    <filter x="-0.25" y="-0.25" width="1.5" height="1.5" color-interpolation-filters="sRGB" id="filter4635">
+      <feGaussianBlur result="blur" stdDeviation="10,000000" in="SourceAlpha" id="feGaussianBlur4637"/>
+      <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0,500000 0 " type="matrix" result="bluralpha" id="feColorMatrix4639"/>
+      <feOffset result="offsetBlur" dy="10,000000" dx="10,000000" in="bluralpha" id="feOffset4641"/>
+      <feMerge id="feMerge4643">
+        <feMergeNode in="offsetBlur" id="feMergeNode4645"/>
+        <feMergeNode in="SourceGraphic" id="feMergeNode4647"/>
+      </feMerge>
+    </filter>
+    <radialGradient cx="1497.1428" cy="532.36218" r="307.85715" fx="1497.1428" fy="532.36218" id="radialGradient3837" xlink:href="#linearGradient4560-2" gradientUnits="userSpaceOnUse"/>
+    <radialGradient cx="1497.1428" cy="532.36218" r="307.85715" fx="1497.1428" fy="532.36218" id="radialGradient3825" xlink:href="#linearGradient4560-2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.38235605,0,0,0.38235605,-434.56651,-63.951922)"/>
+    <filter x="-0.17226395" y="-0.092067286" width="1.3445278" height="1.1841346" color-interpolation-filters="sRGB" id="filter3900">
+      <feGaussianBlur stdDeviation="14.227" id="feGaussianBlur3902"/>
+    </filter>
+    <filter x="-0.17226395" y="-0.092067286" width="1.3445278" height="1.1841346" color-interpolation-filters="sRGB" id="filter3904">
+      <feGaussianBlur stdDeviation="14.227" id="feGaussianBlur3906"/>
+    </filter>
+  </defs>
+  <g id="g3920">
+    <g id="g3071">
+      <g id="g3908">
+        <path d="m 253.67438,139.59998 a 115.79926,115.79926 0 0 1 -231.598528,0 115.79926,115.79926 0 1 1 231.598528,0 z" id="path4558-8" style="fill:url(#radialGradient3825);fill-opacity:1;stroke:none"/>
+        <path d="m 1462.2609,275.31932 0.3948,307.4961 69.9177,-61.4608 49.2594,124.8326 c 5.8525,-17.6779 19.1571,-17.7239 34.0767,-13.9496 l -48.8749,-124.5718 93.4384,1.5489 -198.2121,-233.8954 z" transform="matrix(0.38235605,0,0,0.38235605,-446.3449,-34.896689)" id="path3830" style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-width:15;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3904)"/>
+        <path d="m 1462.2609,275.31932 0.3948,307.4961 69.9177,-61.4608 49.2594,124.8326 c 5.8525,-17.6779 19.1571,-17.7239 34.0767,-13.9496 l -48.8749,-124.5718 93.4384,1.5489 -198.2121,-233.8954 z" transform="matrix(0.38235605,0,0,0.38235605,-449.29326,-41.092327)" id="path3763-2" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:15;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"/>
+        <path d="m 137.76089,10.00429 -0.21508,50.925047 0.21508,-50.925047 z m 87.60733,36.825667 -35.96537,36.060955 35.96537,-36.060955 z M 47.023017,48.538611 82.988383,84.599566 47.023017,48.538611 z m 215.636883,86.866519 -50.92509,0.0597 50.92509,-0.0597 z m -201.728682,1.07537 -50.925047,0.0597 50.925047,-0.0597 z m 128.172932,52.26329 35.96533,36.06096 -35.96533,-36.06096 z m -105.685617,0.21508 -35.965366,36.04901 35.965366,-36.04901 z m 53.971967,21.43584 -0.22704,50.92504 0.22704,-50.92504 z" id="path3777-4" style="fill:none;stroke:#cccccc;stroke-width:3.82356048;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"/>
+      </g>
+      <g id="g3066">
+        <path d="m 1462.2609,275.31932 0.3948,307.4961 69.9177,-61.4608 49.2594,124.8326 c 5.8525,-17.6779 19.1571,-17.7239 34.0767,-13.9496 l -48.8749,-124.5718 93.4384,1.5489 -198.2121,-233.8954 z" transform="matrix(0.38235605,0,0,0.38235605,-138.05065,-34.735165)" id="path3830-4" style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-width:15;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3900)"/>
+        <path d="m 415.4273,64.177681 0.15096,117.573029 26.73345,-23.49991 18.83463,47.73049 c 2.23774,-6.75926 7.32484,-6.77686 13.02943,-5.33373 L 455.48816,153.0168 491.2149,153.609 415.4273,64.177681 z" id="path3594-1-0" style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:5.7353406;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"/>
+        <path d="m 438.40625,41.65625 c -24.84,0 -49.25027,10.120661 -66.8125,27.6875 -17.56223,17.566838 -27.69403,41.97249 -27.6875,66.8125 0.007,24.83163 10.12657,49.2562 27.6875,66.8125 17.56093,17.5563 41.98087,27.65625 66.8125,27.65625 24.83163,0 49.25157,-10.09995 66.8125,-27.65625 17.56093,-17.5563 27.68097,-41.98087 27.6875,-66.8125 0.007,-24.84001 -10.09402,-49.245662 -27.65625,-66.8125 -17.56223,-17.566839 -42.00375,-27.6875 -66.84375,-27.6875 z m 0,15.28125 c 16.75707,0 33.62789,5.676798 47.1875,15.625 l -111.3125,109.96875 c -9.5941,-13.41801 -15.05818,-29.93721 -15.0625,-46.375 -0.005,-20.64186 8.59342,-41.402091 23.1875,-56 14.59408,-14.597909 35.35813,-23.21875 56,-23.21875 z m 58.75,26.125 c 12.92412,14.376474 20.47383,33.77921 20.46875,53.09375 -0.005,20.63502 -8.62567,41.41077 -23.21875,56 -14.59308,14.58923 -35.36498,23.1875 -56,23.1875 -19.63086,0 -39.3717,-7.8063 -53.8125,-21.125 L 497.15625,83.0625 z" id="path2816-7" style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.29424191;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"/>
+      </g>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>show and hide mouse cursor</dc:title>
+        <dc:date>2013-01-10T13:58:35</dc:date>
+        <dc:description/>
+        <dc:source>http://openclipart.org/detail/174170/show-and-hide-mouse-cursor-by-jarda-174170</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>jarda</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>hide</rdf:li>
+            <rdf:li>mouse cursor</rdf:li>
+            <rdf:li>show</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
