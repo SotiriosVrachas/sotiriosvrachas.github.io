@@ -4,9 +4,11 @@ title: Metadata Histogram
 image: "https://github.com/SotiriosVrachas/metadata-histogram/raw/master/cgi.jpg"
 published: true
 ---
+
 A seven day laptop usage physical profile. What can the timestamps alone of the metadata that I generating simply by using a computer reveal about me?
 
 <!-- more -->
+
 ![Metadata Histogram/CGI](https://github.com/SotiriosVrachas/metadata-histogram/raw/master/cgi.jpg "Metadata Histogram/CGI")
 
 ## Documentation
