@@ -9,8 +9,9 @@ twitter_username: sotiriosvrachas
 github_username: sotiriosvrachas
 
 # Build settings
-markdown: redcarpet
-highlighter: pygments
+#markdown: redcarpet
+#highlighter: pygments
+highlighter: rouge
 permalink: /:title
 paginate: 99
 #exclude: [""]
