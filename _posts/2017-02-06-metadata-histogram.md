@@ -9,7 +9,7 @@ A seven day laptop usage physical profile. What can the timestamps alone of the 
 
 <!-- more -->
 
-![Metadata Histogram/CGI](https://github.com/SotiriosVrachas/metadata-histogram/raw/master/cgi.jpg "Metadata Histogram/CGI")
+[![Metadata Histogram/CGI](https://github.com/SotiriosVrachas/metadata-histogram/raw/master/cgi.jpg "Metadata Histogram/CGI")](https://github.com/SotiriosVrachas/metadata-histogram/raw/master/cgi.jpg)
 
 [Source Files: https://github.com/SotiriosVrachas/metadata-histogram/](https://github.com/SotiriosVrachas/metadata-histogram/)
 
