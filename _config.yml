@@ -4,17 +4,17 @@ image: /blob/home.jpeg
 email: "sotirios @ vrachas.com"
 description: "Sotirios Vrachas' Blog"
 baseurl: ""
-url: "http://sotiriosvrachas.github.io"
+url: "http://www.vrachas.com"
 twitter_username: sotiriosvrachas
 github_username: sotiriosvrachas
 
 # Build settings
-#markdown: redcarpet
-#highlighter: pygments
 highlighter: rouge
 permalink: /:title
 paginate: 99
 #exclude: [""]
+future: false
+show_drafts: false
 
 prose:
   rooturl: '_posts'
