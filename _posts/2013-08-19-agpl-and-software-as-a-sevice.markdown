@@ -54,4 +54,4 @@ It was a loophole with GPL that many have exploited to not released the source b
 
 **Q: So, is installing Wordpress on IIS require IIS to be free? Is installing an AGPL program on a proprietary server illegal?**
 
-**A:** No, unless it was distributed with ISS, and the ventor didn't obtain permission from the copyright holders.
+**A:** No, unless it was distributed with IIS, and the ventor didn't obtain permission from the copyright holders.
