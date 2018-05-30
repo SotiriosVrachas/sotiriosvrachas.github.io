@@ -14,7 +14,7 @@ jQuery(function($){
     target: urls.join(",")
   }, function(data){
     $("*[data-webmention-count]").each(function(i,e){
-      $(e).text(data.count[$(e).data('url')]);
+      $(e).text(data.count);
     });
   });
 });
