@@ -4,6 +4,11 @@ title: New Jekyll Theme based on Startbootstrap Agency
 image: https://startbootstrap.com/assets/img/templates/agency.jpg
 tags: jekyllrb
 ---
+
+## [Usage Example](https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency-child)
+Licence: MIT
+Source code: (https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency)
+
 Jekyll-theme-startbootstrap-agency is a Jekyll theme based on Start Bootstrap - Agency. You can see the [live demo](http://www.vrachas.com/jekyll-theme-startbootstrap-agency/).
 
 "Agency is a stylish, one page Bootstrap theme for agencies and small businesses. The design of Agency is based off of the Golden PSD Theme by Mathavan Jaya. You can download the PSD verison of this theme at FreebiesXpress.com."
@@ -35,7 +40,4 @@ https://github.com/y7kim/agency-jekyll-theme has not been updated for more that 
 - Contact form with validation - just add your server url to the `js-url` at `_data/home.yml`
 - Footer with social links, copyright information, and other links
 - SCSS files included for deeper customization options
-
-
-**[Usage Example](https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency-child)**
 
