@@ -18,7 +18,7 @@ show_drafts: false
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://sotiriosvrachas.github.io/'
+  siteurl: 'http://www.vrachas.com/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'blob'
   ignore:
