@@ -33,7 +33,7 @@ layout: default
 				{{ content }}
 
                 <hr>
-<p class="text-center"><span data-webmention-count data-url="{{ page.url | absolute_path }}"></span> mentions</p>
+<p class="text-center"><span data-webmention-count data-url="{{ page.url | absolute_url }}"></span> mentions</p>
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
