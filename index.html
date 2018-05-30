@@ -2,10 +2,13 @@
 layout: page
 description: "Just a web log"
 ---
-
+<div class="h-feed">
+	<h1 class="p-name hidden">Sotirios Vrachas</h1>
+	<a class="u-url hidden" href="/"></a>
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
+	
+    <a class="h-entry" href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
         </h2>
         {% if post.subtitle %}
@@ -23,7 +26,7 @@ description: "Just a web log"
 </div>
 <hr>
 {% endfor %}
-
+ </div>
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
