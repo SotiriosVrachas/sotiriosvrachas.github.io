@@ -17,8 +17,15 @@ jQuery(function($){
     target: target
   }, function(data){
     $("*[data-webmention]").each(function(i,e){
-      data.links.forEach(function(link){$(e).html('<p><a href="'+link.source + '">'+ link.source + '</a> linked here</p>')});
+      $(e).html('')
+      data.links.forEach(function(link){
+        content = ''
+        if(link.data.content !== null){
+          content = link.data.content
+        };
+        $(e).append('<p><a href="'+link.source + '">'+ link.source + '</a> linked here.<br>'
+          + content + '</p>')
+      });
     });
   });
-  
 });
