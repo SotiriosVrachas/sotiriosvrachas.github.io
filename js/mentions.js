@@ -17,7 +17,7 @@ jQuery(function($){
     target: target
   }, function(data){
     $("*[data-webmention]").each(function(i,e){
-      $(e).html(data.links[0].activity.sentence_html);
+      data.links.forEach(function(link){$(e).html('<p><a href="'+link.source + '">'+ link.source + '</a> linked here</p>')});
     });
   });
   
