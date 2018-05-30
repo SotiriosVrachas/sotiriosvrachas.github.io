@@ -5,9 +5,9 @@ image: https://startbootstrap.com/assets/img/templates/agency.jpg
 tags: jekyllrb
 ---
 
-## [Usage Example](https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency-child)
+**[Usage Example](https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency-child)**
 Licence: MIT
-Source code: (https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency)
+[Source code](https://github.com/SotiriosVrachas/jekyll-theme-startbootstrap-agency)
 
 Jekyll-theme-startbootstrap-agency is a Jekyll theme based on Start Bootstrap - Agency. You can see the [live demo](http://www.vrachas.com/jekyll-theme-startbootstrap-agency/).
 
